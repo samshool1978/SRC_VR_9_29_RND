@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ac9db4ee9b0cb0e4487a9946c06950f5
+timeCreated: 1583567758
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/ForAllRenderers/Scripts/ShadersControl.cs
+  uploadId: 598432

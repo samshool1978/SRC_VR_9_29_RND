@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9a4972bd89c5dd24aa918605dbf8610b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Shaders/Dissolve.shader
+  uploadId: 598432

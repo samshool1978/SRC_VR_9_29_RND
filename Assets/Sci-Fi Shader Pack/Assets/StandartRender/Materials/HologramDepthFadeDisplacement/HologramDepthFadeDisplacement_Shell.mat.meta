@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7d930332ca083d84d91b88ddc361fba0
+timeCreated: 1583502431
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Materials/HologramDepthFadeDisplacement/HologramDepthFadeDisplacement_Shell.mat
+  uploadId: 598432

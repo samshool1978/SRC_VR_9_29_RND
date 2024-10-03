@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2f778372f9ee5144fa04f0d2ededc154
+timeCreated: 1583502419
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Materials/Dissolve/Dissolve_Shell.mat
+  uploadId: 598432

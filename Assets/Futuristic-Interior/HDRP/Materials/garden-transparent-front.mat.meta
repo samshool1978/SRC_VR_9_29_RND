@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8f88f79bcb3df5c08d661ba402833b5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212965
+  packageName: Futuristic Scifi Interior
+  packageVersion: 1.1.1
+  assetPath: Assets/Futuristic-Interior/HDRP/Materials/garden-transparent-front.mat
+  uploadId: 516738

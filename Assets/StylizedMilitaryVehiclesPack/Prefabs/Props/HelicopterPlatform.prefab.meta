@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed1cf9271dd26d44f877ccbe4eae2a41
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 122675
+  packageName: Stylized Military Vehicles Pack
+  packageVersion: 1.02
+  assetPath: Assets/StylizedMilitaryVehiclesPack/Prefabs/Props/HelicopterPlatform.prefab
+  uploadId: 338346

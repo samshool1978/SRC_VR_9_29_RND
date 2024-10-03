@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a084ec0e2bdb50040ad7f0dff8a2194c
+timeCreated: 1583506875
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Prefabs/Outline.prefab
+  uploadId: 598432

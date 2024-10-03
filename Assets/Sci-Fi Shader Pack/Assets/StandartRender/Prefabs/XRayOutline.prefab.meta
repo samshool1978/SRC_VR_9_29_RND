@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6901ac1a3e7e2a84d8d35766d52359a0
+timeCreated: 1583506882
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Prefabs/XRayOutline.prefab
+  uploadId: 598432

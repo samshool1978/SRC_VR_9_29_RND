@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SplashScreen.unity
+    guid: 3711980861cc6e946bd82dc9d65ada4a
+  - enabled: 1
+    path: Assets/Scenes/OperationsRoom_New.unity
+    guid: 2b626940f31a6544b97085f88a6f5424
+  - enabled: 0
+    path: Assets/Scenes/F35_Cockpit.unity
+    guid: b20dd94b96c8c084eb631c9418d24371
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 21ca1b4b318bcff49a7df27d7b6d1d63,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3b91446d3953c3c46bfd50f3657c025c,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 09e9665f793ab3e4aad94e940d1cdce0,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0

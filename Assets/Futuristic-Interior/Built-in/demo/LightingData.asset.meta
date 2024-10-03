@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: acca18c5eaec02855902dfd55788a6a5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212965
+  packageName: Futuristic Scifi Interior
+  packageVersion: 1.1.1
+  assetPath: Assets/Futuristic-Interior/Built-in/demo/LightingData.asset
+  uploadId: 516738

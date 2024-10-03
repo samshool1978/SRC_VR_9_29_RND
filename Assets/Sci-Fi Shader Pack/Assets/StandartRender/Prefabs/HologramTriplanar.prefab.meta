@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 82b069fcdc20e4b4f95574a916576c6e
+timeCreated: 1583506879
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Prefabs/HologramTriplanar.prefab
+  uploadId: 598432

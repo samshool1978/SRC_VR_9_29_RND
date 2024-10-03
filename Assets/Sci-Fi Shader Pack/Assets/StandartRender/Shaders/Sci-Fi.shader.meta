@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 697a766ed67ade4498c8896db6541ccb
+timeCreated: 1583502305
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Shaders/Sci-Fi.shader
+  uploadId: 598432

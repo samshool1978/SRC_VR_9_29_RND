@@ -1,0 +1,129 @@
+newmtl FX_Main_Body
+Kd 0.137255 0.145098 0.188235
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.75 0.75 0.75
+Ns 100
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Color.jpg
+map_Ka UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ks UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ns UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Glossiness.png
+map_bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+
+newmtl FX_Main_Body__Alierons_
+Kd 0.137255 0.145098 0.188235
+Ke 0 0 0
+Ka 0.75 0.75 0.75
+Ks 0.75 0.75 0.75
+Ns 100
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Color.jpg
+map_Ka UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ks UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ns UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Glossiness.png
+map_bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+
+newmtl FX_Main_Body__Doors
+Kd 0.137255 0.145098 0.188235
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.75 0.75 0.75
+Ns 100
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Color.jpg
+map_Ka UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ks UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ns UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Glossiness.png
+map_bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+
+newmtl FX_Main_Body__Metal_1
+Kd 0.666667 0.666667 0.666667
+Ke 0 0 0
+Ka 0.05 0.05 0.05
+Ks 0.25 0.25 0.25
+Ns 150
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd 1 LowRes Textures For City/Concrete_RGB.jpg
+map_Ka SeamlessImages/carport2-inverted-bw 2.jpg
+map_Ks SeamlessImages/carport2-inverted-bw.jpg
+map_bump SeamlessImages/carport2-inverted-bw.jpg
+bump SeamlessImages/carport2-inverted-bw.jpg
+
+newmtl FX_Main_Body_Air_Brakes
+Kd 0.137255 0.145098 0.188235
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.75 0.75 0.75
+Ns 100
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Color.jpg
+map_Ka UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ks UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ns UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Glossiness.png
+map_bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+
+newmtl FX_Main_Body_Tail
+Kd 0.137255 0.145098 0.188235
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.75 0.75 0.75
+Ns 100
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Color.jpg
+map_Ka UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ks UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ns UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Glossiness.png
+map_bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+
+newmtl FX_Main_Body_Wing_Edge
+Kd 0.137255 0.145098 0.188235
+Ke 0 0 0
+Ka 0.5 0.5 0.5
+Ks 0.75 0.75 0.75
+Ns 100
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Color.jpg
+map_Ka UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ks UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+map_Ns UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Glossiness.png
+map_bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+bump UMA_Boeing FX_Stealth/UAV SRC HRISR Stealth/SRC UAV HRISR Stealth_Spec.jpg
+
+newmtl Interior_Door
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0.75 0.75 0.75
+Ks 0.25 0.25 0.25
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+

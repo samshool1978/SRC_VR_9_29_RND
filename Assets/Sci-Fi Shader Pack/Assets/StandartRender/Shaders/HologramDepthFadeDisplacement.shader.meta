@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0df39782d9131394694f71b5f6b689ed
+timeCreated: 1583502252
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Shaders/HologramDepthFadeDisplacement.shader
+  uploadId: 598432

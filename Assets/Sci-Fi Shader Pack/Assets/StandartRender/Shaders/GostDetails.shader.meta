@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c0eddcf8928249d4d950abdb11ca39b3
+timeCreated: 1583502355
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Shaders/GostDetails.shader
+  uploadId: 598432

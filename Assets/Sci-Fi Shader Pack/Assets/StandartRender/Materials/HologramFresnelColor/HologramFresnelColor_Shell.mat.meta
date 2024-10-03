@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 14afa0d813dac6749a7ffe8d596d7cae
+timeCreated: 1583502411
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Materials/HologramFresnelColor/HologramFresnelColor_Shell.mat
+  uploadId: 598432

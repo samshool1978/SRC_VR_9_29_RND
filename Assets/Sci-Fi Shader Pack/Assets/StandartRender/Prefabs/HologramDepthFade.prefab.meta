@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: dd43b5c393feca04099b3fa28e1799d4
+timeCreated: 1583506872
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Prefabs/HologramDepthFade.prefab
+  uploadId: 598432

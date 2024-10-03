@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 36121c42b945b624fb938cb9637f28d0
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 176981
+  packageName: 3D Fire and Explosions
+  packageVersion: 1.1
+  assetPath: Assets/Hovl Studio/3D Fire and Explosions/Shaders/Distortion.shader
+  uploadId: 497957

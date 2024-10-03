@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2c20a82df45dfae4aba75276ae35d223
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/ShadersNotGlobal/Displacement_NotGlobal.shader
+  uploadId: 598432

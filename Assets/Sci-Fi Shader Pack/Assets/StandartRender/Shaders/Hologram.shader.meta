@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d39d76ccfa7a6964a8b6fd50425a53f2
+timeCreated: 1583502383
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Shaders/Hologram.shader
+  uploadId: 598432

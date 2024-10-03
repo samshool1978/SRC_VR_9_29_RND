@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 957796f666fafb44db00363b61a327ef
+timeCreated: 1583502436
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Materials/GostStandart/GostStandart_Shell.mat
+  uploadId: 598432

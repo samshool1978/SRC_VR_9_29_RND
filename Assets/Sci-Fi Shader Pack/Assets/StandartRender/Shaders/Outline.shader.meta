@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f3cff7b18d46cb24eb91630d66e60e34
+timeCreated: 1583502399
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Shaders/Outline.shader
+  uploadId: 598432

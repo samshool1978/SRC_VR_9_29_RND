@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f92361ad0d88a4142aaea36a9c653c9b
+timeCreated: 1583502402
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 164287
+  packageName: Sci-Fi Shader Pack
+  packageVersion: 1.6
+  assetPath: Assets/Sci-Fi Shader Pack/Assets/StandartRender/Shaders/GostDepthFade.shader
+  uploadId: 598432
